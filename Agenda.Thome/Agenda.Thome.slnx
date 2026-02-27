@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Agenda.Thome.API/Agenda.Thome.API.csproj" />
+    <Project Path="src/Agenda.Thome.Application/Agenda.Thome.Application.csproj" />
+    <Project Path="src/Agenda.Thome.Domain/Agenda.Thome.Domain.csproj" />
+    <Project Path="src/Agenda.Thome.Infrastructure/Agenda.Thome.Infrastructure.csproj" />
+  </Folder>
+</Solution>
