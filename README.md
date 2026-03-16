@@ -3,10 +3,10 @@
 O **Agenda.Thome** é um sistema de gerenciamento de agendamentos desenvolvido para otimizar a organização de horários e serviços. O projeto foca em uma interface intuitiva e uma experiência de usuário fluida, permitindo o controle eficiente de compromissos.
 
 ## 🚀 Tecnologias Utilizadas
-- **Frontend:** [Inserir ex: React/Next.js/HTML & CSS]
-- **Backend:** [Inserir ex: Node.js/C# .NET]
-- **Banco de Dados:** [Inserir ex: MongoDB/PostgreSQL/SQL Server]
-- **Estilização:** [Inserir ex: Tailwind CSS/Styled Components]
+- **Frontend:** [React/Next.js/HTML & CSS]
+- **Backend:** [Node.js/C# .NET]
+- **Banco de Dados:** [MongoDB/PostgreSQL/SQL Server]
+- **Estilização:** [Tailwind CSS/Styled Components]
 
 ## ✨ Funcionalidades
 - ✅ Cadastro e gerenciamento de clientes/usuários.
